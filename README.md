@@ -55,17 +55,23 @@ class MainActivity : ComponentActivity() {
 
 <div align="center">
 
-<img src="./images/generate.png" width="250"/>
-<img src="./images/second_generate.png" width="250"/>
-
-</div>
-
-<div align="center">
-
-<img src="./images/Reset.png" width="250"/>
+<b>Главное меню приложения</b><br>
 <img src="./images/global_menu.png" width="250"/>
 
+<br><br>
+
+<b>Первая генерация числа</b><br>
+<img src="./images/generate.png" width="250"/>
+
+<br><br>
+
+<b>Вторая генерация числа</b><br>
+<img src="./images/second_generate.png" width="250"/>
+
+<br><br>
+
+<b>Сброс</b><br>
+<img src="./images/Reset.png" width="250"/>
+
 </div>
-
-
 
