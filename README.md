@@ -53,17 +53,19 @@ class MainActivity : ComponentActivity() {
 ```
 ## Скриншоты работы приложения
 
-### Меню
-![меню](изображения/глобальнѾѵ_menѵю.png)
+<div align="center">
 
-### Генерация числа
-![генерировать](изображения/гнѵЀировать.png)
+<img src="./images/generate.png" width="250"/>
+<img src="./images/second_generate.png" width="250"/>
 
-### Второй вариант генерации
-![вторая_генерация](информация/second_generate.png)
+</div>
 
-### Сброс
-![сбросить](изображения/Сброс.png)
+<div align="center">
+
+<img src="./images/Reset.png" width="250"/>
+<img src="./images/global_menu.png" width="250"/>
+
+</div>
 
 
 
